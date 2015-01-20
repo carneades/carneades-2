@@ -1,4 +1,9 @@
-These are the source files of the Carneades argumentation system.
+These are the source files of the 2001 single-user desktop version of
+the Carneades argumentation system, implemented in Clojure for the
+Java Virtual Machine (JVM), and with a graphical user interface.
+
+This version of Carneades was developed in a project with Doug Walton
+funded by the Canadian Social and Humanities Research Council.
 
 Copyright © 2010 Fraunhofer Gesellschaft 
 Licensed under the EUPL V.1.1
@@ -9,5 +14,4 @@ in the licenses directory, for details. For further information about the EUPL,
 and versions of the EUPL in all 22 of official languages of the European Union, 
 see <http://www.osor.eu/eupl>.
 
-For further information about Carneades see <http://carneades.berlios.de>.
 
