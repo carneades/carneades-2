@@ -1,9 +1,10 @@
-These are the source files of the 2011 single-user desktop version of
-the Carneades argumentation system, implemented in Clojure for the
-Java Virtual Machine (JVM), and with a graphical user interface.
+These are the source files of the second version of
+the Carneades argumentation system.  This version is a single-user desktop
+implemented in Clojure for the Java Virtual Machine (JVM), and with a 
+graphical user interface.
 
 This version of Carneades was developed in a project with Doug Walton
-funded by the Canadian Social and Humanities Research Council.
+funded by the Canadian Social and Humanities Research Council in 2011.
 
 Copyright © 2010 Fraunhofer Gesellschaft 
 Licensed under the EUPL V.1.1
